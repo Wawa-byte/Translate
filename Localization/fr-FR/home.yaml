@@ -27,7 +27,7 @@ text: [
 # "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use.
 # Available for:
 "Trouvez la version du logiciel qui vous convient et lancez-vous. Folding@home est entièrement gratuit, facile à installer et utilisable sans aucun risque.
-Disponible pour:
+Disponible pour :
 Linux
 Windows
 Mac",
@@ -67,7 +67,7 @@ Support technique : ",
 
 #FIGHT DESIEASES TOGETHER WITH US bold text
 # "FIGHT DISEASES TOGETHER WITH US."
-"LUTTEZ AVEC NOUS CONTRE LA MALADIE",
+"LUTTEZ AVEC NOUS CONTRE LA MALADIE.",
 
 #Associated text
 # "The Folding@home software allows you to share your unused computer power with us so that we can research even more potential cures."
@@ -78,7 +78,7 @@ Support technique : ",
 "1 parmi un million",
 
 #FOLDING? bold text
-"FOLDING?",
+"FOLDING ?",
 
 #Associated text
 # "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
