@@ -17,7 +17,7 @@ text: [
 
 #Associated text with the aobve square button
 # "Hide this and watch the video."
-"Masquer cet écran pour visionner la vidéo".,
+"Masquer cet écran pour visionner la vidéo.",
 
 # START FOLDING NOW bold text
 # "START FOLDING NOW"
@@ -46,7 +46,7 @@ Mac",
 # For tech support: "
 "La communauté Folding@Home est répartie entre d'innombrables forums, sites web et réseaux sociaux.
 Voici une liste de nos canaux officiels.
-Support technique: ",
+Support technique : ",
 
 #URLs - Facebook and Twitter have localised name in certain languages:
 "foldingforum.org",
@@ -85,11 +85,11 @@ Support technique: ",
 "Le terme anglais folding (littéralement: plier/pliage) désigne ici la manière avec laquelle se replient les protéines qui composent notre organisme. Nous avons besoin des protéines pour rester en bonne santé et celles-ci s'assemblent par un processus de repliement. Mais si ce repliement est anormal, incorrect, cela peut sérieusement compromettre notre santé.",
 
 #Associated square button
-@ "LEARN MORE",
+# "LEARN MORE",
 "EN SAVOIR PLUS",
 
 #TEAM bold text
-@ "TEAM"
+# "TEAM"
 "L'ÉQUIPE",
 
 #Associated text
