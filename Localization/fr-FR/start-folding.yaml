@@ -24,18 +24,21 @@ text: [
 #
 
 # Bold text
-# "Don’t see the correct software for your device? Try our list of",
+# "Don’t see the correct software for your device? Try our list of"
+"Vous ne trouvez pas le logiciel qui convient à votre appareil? Examinez notre liste des ",
 
 # Alternative downloads text
-"alternative downloads",
+# "alternative downloads",
+"autres versions"
 
 # End of sentence punctuation
-".",
+"disponibles.",
 
 # Bold text
-"Additional platforms",
+# "Additional platforms"
+"Plateformes supplémentaires",
 
 # URLs
-"Docker for GPUs",
+"Docker pour GPU",
 "vSphere"
 ]
