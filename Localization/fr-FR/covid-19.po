@@ -32,7 +32,7 @@ msgid "Using football as an analogy for the experimental situation, it’s as if
 msgstr "Pour user d’une métaphore, imaginons que la situation expérimentale est un match de football américain. C’est un peu comme si nous ne pouvions voir les joueurs qu’en position de snap (la mise en jeu, donc la disposition dans laquelle les joueurs passent le plus de temps), sans jamais pouvoir assister à leurs autres mouvements, soit à l’essentiel de leurs activités sur le terrain."
 
 msgid "Seeing a single structure of a protein (left) is like seeing players lined up for the snap in football. Important information, but a lot missing too. The protein structure shows a sphere for each atom (blue) and red arrows highlighting the one drug binding site in this protein."
-msgstr ""
+msgstr "Observer une seule structure d’une protéine (gauche) est un peu comme de voir les joueurs alignés pour le snap (droite). C’est une information importante, mais avec des lacunes majeures. La structure de la protéine est représentée par une sphère pour chacun des atomes (bleus) et des flèches rouges indiquent ce qu’on appelle le site de liaison médicamenteuse dans cette protéine."
 
 msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
 msgstr ""
