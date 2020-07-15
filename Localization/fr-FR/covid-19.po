@@ -38,7 +38,7 @@ msgid "Our specialty is in using computer simulations to understand proteins’ 
 msgstr "Notre spécialité consiste à tirer parti de simulations informatiques pour comprendre les mouvement des parties mobiles des protéines. Observer comment les atomes d’une protéine évoluent les uns par rapport aux autres fournit en effet de précieuses informations, qu’aucun autre moyen ne permet d’obtenir."
 
 msgid "Taking the experimental structures as starting points, we can simulate how all the atoms in the protein move, effectively filling in the rest of the game that experiments miss."
-msgstr ""
+msgstr "En prenant les structures expérimentales comme points de départ, nous pouvons simuler l’évolution de tous les atomes de la protéine et ainsi combler les lacunes, révéler le déroulement du jeu auquel les méthodes expérimentales restent aveugles."
 
 msgid "A movie capturing how the protein shown before moves is like getting to watch the whole football game. In this case, we see a pocket form that was absent in the experimental structure."
 msgstr ""
