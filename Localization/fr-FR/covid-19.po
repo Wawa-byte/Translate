@@ -56,19 +56,19 @@ msgid "Spreading the knowledge, Opensource"
 msgstr "Répandre la connaissances, en open source"
 
 msgid "When we are done with our analysis we upload the data here:"
-msgstr "Quand nos analyses sont terminées, nous téléversons les données ici."
+msgstr "Quand nos analyses sont terminées, nous téléversons les données ici:"
 
 msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
-msgstr ""
+msgstr "Toutes nos données sont ainsi librement accessibles, de sorte que les autres chercheurs de la discipline peuvent vérifier nos analyses, et quiconque utilisant de nouvelles méthodes (par ex. dans le domaine en pleine expansion de l’analyse de données par apprentissage informatique) peut les consulter à tout moment: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) et [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
 
 msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."
-msgstr ""
+msgstr "Nous collaborons également avec d'autres laboratoires et groupes hors du consortium Foldingathome afin de maîtriser le COVID-19 dès que possible."
 
 msgid "What you can do"
-msgstr ""
+msgstr "Ce que vous pouvez faire"
 
 msgid "1. Donate computing power:"
-msgstr ""
+msgstr "Don de puissance de calcul"
 
 msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
 msgstr ""
