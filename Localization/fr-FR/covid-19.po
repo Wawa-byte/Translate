@@ -35,7 +35,7 @@ msgid "Seeing a single structure of a protein (left) is like seeing players line
 msgstr "Observer une seule structure d’une protéine (gauche) est un peu comme de voir les joueurs alignés pour le snap (droite). C’est une information importante, mais avec des lacunes majeures. La structure de la protéine est représentée par une sphère pour chacun des atomes (bleus) et des flèches rouges indiquent ce qu’on appelle le site de liaison médicamenteux dans cette protéine."
 
 msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
-msgstr "Notre spécialité consiste à tirer parti de simulations informatiques pour comprendre les mouvement des parties mobiles des protéines. Observer comment les atomes d’une protéine évoluent les uns par rapport aux autres fournit en effet de précieuses informations, qu’aucun autre moyen ne permet d’obtenir."
+msgstr "Notre spécialité consiste à tirer parti de simulations informatiques pour comprendre les mouvements des parties mobiles des protéines. Observer comment les atomes d’une protéine évoluent les uns par rapport aux autres fournit en effet de précieuses informations, qu’aucun autre moyen ne permet d’obtenir."
 
 msgid "Taking the experimental structures as starting points, we can simulate how all the atoms in the protein move, effectively filling in the rest of the game that experiments miss."
 msgstr "En prenant les structures expérimentales comme points de départ, nous pouvons simuler l’évolution de tous les atomes de la protéine et ainsi combler les lacunes, révéler le déroulement du jeu auquel les méthodes expérimentales restent aveugles."
@@ -56,10 +56,10 @@ msgid "Spreading the knowledge, Opensource"
 msgstr "Répandre la connaissances, en open source"
 
 msgid "When we are done with our analysis we upload the data here:"
-msgstr "Quand nos analyses sont terminées, nous téléversons les données ici:"
+msgstr "Quand nos analyses sont terminées, nous téléversons les données ici :"
 
 msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
-msgstr "Toutes nos données sont ainsi librement accessibles, de sorte que les autres chercheurs de la discipline peuvent vérifier nos analyses, et quiconque utilisant de nouvelles méthodes (par ex. dans le domaine en pleine expansion de l’analyse de données par apprentissage informatique) peut les consulter à tout moment: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) et [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+msgstr "Toutes nos données sont ainsi librement accessibles, de sorte que les autres chercheurs de la discipline peuvent vérifier nos analyses, et quiconque utilisant de nouvelles méthodes (par ex. dans le domaine en pleine expansion de l’analyse de données par apprentissage informatique) peut les consulter à tout moment : [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) et [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
 
 msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."
 msgstr "Nous collaborons également avec d'autres laboratoires et groupes hors du consortium Foldingathome afin de maîtriser le COVID-19 dès que possible."
@@ -71,7 +71,7 @@ msgid "1. Donate computing power:"
 msgstr "Don de puissance de calcul"
 
 msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
-msgstr "[Télécharger Folding@home](/start-folding/) et nous aider à réaliser des simulations est la première manière de contribuer à cet effort. Ces calculs sont vraiment énormes et chaque bit compte! Chacune des simulations que vous réalisez équivaut à acheter un billet de loterie. Plus nous achetons de billets, meilleures sont nos chances de décrocher le jackpot. En temps normal, votre ordinateur connecté à Folding@home travaille sans interruption, mais nos travaux sur le COVID-19 ont suscité un tel enthousiasme que des pauses peuvent intervenir pendant que nous nous efforçons de préparer d’autres simulations. D’avance merci de votre patience! Il y a beaucoup de travaux scientifiques très utiles à accomplir et nous faisons de notre mieux pour les mettre sur pied le plus rapidement possible."
+msgstr "[Télécharger Folding@home](/start-folding/) et nous aider à réaliser des simulations est la première et principale manière de contribuer à cet effort. Ces calculs sont vraiment énormes et chaque bit compte ! Chacune des simulations que vous réalisez équivaut à acheter un billet de loterie. Plus nous achetons de billets, meilleures sont nos chances de décrocher le jackpot. En temps normal, votre ordinateur connecté à Folding@home travaille sans interruption, mais nos travaux sur le COVID-19 ont suscité un tel enthousiasme que des pauses peuvent intervenir pendant que nous nous efforçons de préparer d’autres simulations. D’avance merci de votre patience ! Il y a beaucoup de travaux scientifiques très utiles à accomplir et nous faisons de notre mieux pour les mettre sur pied le plus rapidement possible."
 
 msgid "Don’t miss our client FAQ. [HERE](https://foldingforum.org/viewtopic.php?f=24&t=32463)"
 msgstr "Ne manquez pas de consulter notre FAQ. [ICI](https://foldingforum.org/viewtopic.php?f=24&t=32463)"
@@ -80,10 +80,10 @@ msgid "To focus on Covid19 research set your category to any."
 msgstr "Pour vous concentrer sur le COVID-19, vous pouvez sélectionner la catégorie correspondante."
 
 msgid "2) If you don’t have computers to contribute or are feeling particularly generous, you can also [make donations](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) through Washington University in St. Louis. These funds are used for a number of purposes, including:"
-msgstr "2) Si vous n’avez pas d’ordinateurs disponibles ou si vous vous sentez particulièrement généreux, vous pouvez aussi [faire des dons](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) par l’intermédiaire de l’Université Washington de Saint-Louis (Missouri, États-Unis). Ces fonds sont consacrés à plusieurs activités, notamment:"
+msgstr "2) Si vous n’avez pas d’ordinateurs disponibles ou si vous vous sentez particulièrement généreux, vous pouvez aussi [faire des dons](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) par l’intermédiaire de l’Université Washington de Saint-Louis (Missouri, États-Unis). Ces fonds sont consacrés à plusieurs activités, notamment :"
 
 msgid "2.1) Supporting our software engineering and server-side hardware (particularly important right now as we scale up rapidly!)"
-msgstr "2.1) Soutenir nos travaux d’ingénierie logicielle et nos infrastructures matérielles pour les serveurs - un aspect particulièrement important en ce moment, car nous étoffons nos équipements rapidement!"
+msgstr "2.1) Soutenir nos travaux d’ingénierie logicielle et nos infrastructures matérielles pour les serveurs - un aspect particulièrement important en ce moment, car nous étoffons nos équipements rapidement !"
 
 msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
 msgstr "Acheter des composés en vue de réaliser des tests expérimentaux basés sur les connaissances fournies par nos simulations."
