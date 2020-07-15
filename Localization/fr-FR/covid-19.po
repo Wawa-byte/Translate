@@ -23,7 +23,7 @@ msgid "Viruses also have proteins that they use to suppress our immune systems a
 msgstr "Les virus aussi ont des protéines qu’ils utilisent pour contrer nos systèmes immunitaires et pour se reproduire."
 
 msgid "To help tackle coronavirus, we want to understand how these viral proteins work and how we can design therapeutics to stop them."
-msgstr ""
+msgstr "Pour contribuer à la lutte contre le coronavirus, nous tentons de comprendre comment fonctionnent ces protéines virales et comment mettre au point des traitements capables de les stopper."
 
 msgid "There are many experimental methods for determining protein structures. While extremely powerful, they only reveal a single snapshot of a protein’s usual shape. But proteins have lots of moving parts, so we really want to see the protein in action. The structures we can’t see experimentally may be the key to discovering a new therapeutic."
 msgstr ""
