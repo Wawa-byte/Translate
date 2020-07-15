@@ -41,7 +41,7 @@ msgid "Taking the experimental structures as starting points, we can simulate ho
 msgstr "En prenant les structures expérimentales comme points de départ, nous pouvons simuler l’évolution de tous les atomes de la protéine et ainsi combler les lacunes, révéler le déroulement du jeu auquel les méthodes expérimentales restent aveugles."
 
 msgid "A movie capturing how the protein shown before moves is like getting to watch the whole football game. In this case, we see a pocket form that was absent in the experimental structure."
-msgstr ""
+msgstr "Réaliser un film montrant comment évolue la protéine illustrée plus haut permet en quelque sorte de visionner le match de football entier. Ici, nous voyons la formation d’une poche absente dans la structure expérimentale."
 
 msgid "Doing so can reveal new therapeutic opportunities. For example, in our recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), we simulated a protein from Ebola virus that is typically considered ‘undruggable’ because the snapshots from experiments don’t have obvious druggable sites. But, our simulations uncovered an alternative structure that does have a druggable site. Importantly, we then performed experiments that confirmed our computational prediction, and are now searching for drugs that bind this newly discovered binding site."
 msgstr ""
