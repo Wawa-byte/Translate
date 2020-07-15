@@ -68,7 +68,7 @@ msgid "What you can do"
 msgstr "Ce que vous pouvez faire"
 
 msgid "1. Donate computing power:"
-msgstr "Don de puissance de calcul"
+msgstr "1. Don de puissance de calcul"
 
 msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
 msgstr "[Télécharger Folding@home](/start-folding/) et nous aider à réaliser des simulations est la première et principale manière de contribuer à cet effort. Ces calculs sont vraiment énormes et chaque bit compte ! Chacune des simulations que vous réalisez équivaut à acheter un billet de loterie. Plus nous achetons de billets, meilleures sont nos chances de décrocher le jackpot. En temps normal, votre ordinateur connecté à Folding@home travaille sans interruption, mais nos travaux sur le COVID-19 ont suscité un tel enthousiasme que des pauses peuvent intervenir pendant que nous nous efforçons de préparer d’autres simulations. D’avance merci de votre patience ! Il y a beaucoup de travaux scientifiques très utiles à accomplir et nous faisons de notre mieux pour les mettre sur pied le plus rapidement possible."
@@ -86,7 +86,7 @@ msgid "2.1) Supporting our software engineering and server-side hardware (partic
 msgstr "2.1) Soutenir nos travaux d’ingénierie logicielle et nos infrastructures matérielles pour les serveurs - un aspect particulièrement important en ce moment, car nous étoffons nos équipements rapidement !"
 
 msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
-msgstr "Acheter des composés en vue de réaliser des tests expérimentaux basés sur les connaissances fournies par nos simulations."
+msgstr "2.2) Acheter des composés en vue de réaliser des tests expérimentaux basés sur les connaissances fournies par nos simulations."
 
 msgid "Covid-19 collaborators"
 msgstr "Parrainage COVID-19"
