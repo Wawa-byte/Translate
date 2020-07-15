@@ -35,7 +35,7 @@ msgid "Seeing a single structure of a protein (left) is like seeing players line
 msgstr "Observer une seule structure d’une protéine (gauche) est un peu comme de voir les joueurs alignés pour le snap (droite). C’est une information importante, mais avec des lacunes majeures. La structure de la protéine est représentée par une sphère pour chacun des atomes (bleus) et des flèches rouges indiquent ce qu’on appelle le site de liaison médicamenteuse dans cette protéine."
 
 msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
-msgstr ""
+msgstr "Notre spécialité consiste à tirer parti de simulations informatiques pour comprendre les mouvement des parties mobiles des protéines. Observer comment les atomes d’une protéine évoluent les uns par rapport aux autres fournit en effet de précieuses informations, qu’aucun autre moyen ne permet d’obtenir."
 
 msgid "Taking the experimental structures as starting points, we can simulate how all the atoms in the protein move, effectively filling in the rest of the game that experiments miss."
 msgstr ""
