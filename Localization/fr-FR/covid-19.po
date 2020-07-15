@@ -26,7 +26,7 @@ msgid "To help tackle coronavirus, we want to understand how these viral protein
 msgstr "Pour contribuer à la lutte contre le coronavirus, nous tentons de comprendre comment fonctionnent ces protéines virales et comment mettre au point des traitements capables de les stopper."
 
 msgid "There are many experimental methods for determining protein structures. While extremely powerful, they only reveal a single snapshot of a protein’s usual shape. But proteins have lots of moving parts, so we really want to see the protein in action. The structures we can’t see experimentally may be the key to discovering a new therapeutic."
-msgstr ""
+msgstr "Il existe de nombreuses méthodes expérimentales, souvent extrêmement puissantes, permettant de déterminer la structure des protéines. Mais elles ne révèlent qu’un instantané de la forme usuelle des protéines observées. Or les protéines comportent de nombreux éléments mobiles et nous voulons donc les voir en action. Les structures que nous ne pouvons pas observer dans un cadre expérimental peuvent nous guider vers la découverte de nouveaux traitements."
 
 msgid "Using football as an analogy for the experimental situation, it’s as if you could only see the players lined up for the snap (the single arrangement the players spend the most time in) and were blind to the rest of the game."
 msgstr ""
