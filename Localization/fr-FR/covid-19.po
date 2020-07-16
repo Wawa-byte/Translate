@@ -47,7 +47,7 @@ msgid "Doing so can reveal new therapeutic opportunities. For example, in our re
 msgstr "Ces travaux peuvent révéler de nouvelles possibilités de traitement. Par exemple, dans le cadre de notre récent [papier](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), nous avons simulé une protéine du virus Ebola réputée intraitable par voie médicamenteuse parce que les instantanés livrés par les expériences n’indiquent aucun site de liaison évident. Mais nos simulations ont dévoilé une structure alternative qui offre un tel site de liaison. Ensuite, nous avons réalisé des expériences confirmant notre simulation informatique et nous sommes en train de chercher des médicaments qui utilisent ce site de liaison."
 
 msgid "An experimental structure of an Ebola protein doesn’t have obvious druggable sites (no deep pockets among the atoms shown as spheres).Our simulations captured a motion that creates a potentially druggable site in this Ebola protein. Instead of showing spheres for each atom, this cartoon shows a ribbon tracing the linear chain of amino acids (chemicals) the protein is made of."
-msgstr "Une structure expérimentale tridimensionnelle d’une protéine Ebola ne présente aucun site de liaison évident (pas de poche formée entre les atomes représentés par des sphères). Nos simulations ont permis de dévoiler un mouvement créant un site de liaison potentiel dans cette protéine Ebola. Au lieu de représenter les atomes sous forme de sphères, ce clip les montre sous la forme d’un ruban reproduisant la chaîne linéaire d’acides aminés (produits chimiques) qui constituent la protéine."
+msgstr "Une structure expérimentale tridimensionnelle d’une protéine Ebola ne présente aucun site de liaison évident (pas de poche formée entre les atomes représentés par des sphères). Nos simulations ont permis de dévoiler un mouvement créant un site de liaison potentiel dans cette protéine Ebola. Au lieu de représenter les atomes sous forme de sphères, ce clip les montre sous la forme d’un ruban reproduisant la chaîne linéaire d’acides aminés (substances chimiques) qui constituent la protéine."
 
 msgid "We want to do the same thing with coronavirus."
 msgstr "Nous voulons faire de même avec le coronavirus."
@@ -83,7 +83,7 @@ msgid "2) If you don’t have computers to contribute or are feeling particularl
 msgstr "2) Si vous n’avez pas d’ordinateurs disponibles ou si vous vous sentez particulièrement généreux, vous pouvez aussi [faire des dons](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) par l’intermédiaire de l’Université Washington de Saint-Louis (Missouri, États-Unis). Ces fonds sont consacrés à plusieurs activités, notamment :"
 
 msgid "2.1) Supporting our software engineering and server-side hardware (particularly important right now as we scale up rapidly!)"
-msgstr "2.1) Soutenir nos travaux d’ingénierie logicielle et nos infrastructures matérielles pour les serveurs - un aspect particulièrement important en ce moment, car nous étoffons nos équipements rapidement !"
+msgstr "2.1) Soutenir nos travaux d’ingénierie logicielle et nos infrastructures matérielles pour les serveurs – un aspect particulièrement important en ce moment, car nous étoffons nos équipements rapidement !"
 
 msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
 msgstr "2.2) Acheter des composés en vue de réaliser des tests expérimentaux basés sur les connaissances fournies par nos simulations."
