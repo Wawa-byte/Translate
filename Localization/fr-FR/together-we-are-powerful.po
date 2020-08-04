@@ -6,30 +6,30 @@ msgstr ""
 "Source-Language: en-US\n"
 "Source-Version: 1.0\n"
 "Source-Last-Modified: 20200803\n"
-"Target-Language: \n"
-"Target-Version: \n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0\n"
 "Target-Last-Modified: \n"
 
 msgid "Together We Are Powerful - Folding@home"
-msgstr ""
+msgstr "Ensemble, nous sommes formidables - Folding@home"
 
 msgid "[Take me home](https://foldingathome.org/home)"
-msgstr ""
+msgstr "[Home](https://foldingathome.org/home)"
 
 msgid "TOGETHER, WE ARE POWERFUL"
-msgstr ""
+msgstr "ENSEMBLE, NOUS SOMMES FORMIDABLES"
 
 msgid "Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug."
-msgstr ""
+msgstr "Ensemble, nous avons créé le superordinateur le plus puissant de la planète. Nous l'utilisons pour comprendre le SARS-CoV-2/COVID-19 et développer de nouveaux traitements. Nous avons besoin de vous pour mettre au point un médicament efficace et libre de droits."
 
 msgid "Use your PC to help fight COVID-19."
-msgstr ""
+msgstr "Lancez votre PC dans la lutte contre COVID-19."
 
 msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
-msgstr ""
+msgstr "[TÉLÉCHARGER FOLDINGATHOME](#downloads)"
 
 msgid "[Available for Windows, Mac, Linux]"
-msgstr ""
+msgstr "[Disponible pour Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
 msgstr ""
