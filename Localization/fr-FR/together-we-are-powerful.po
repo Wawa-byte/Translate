@@ -47,89 +47,89 @@ msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus 
 msgstr "Nous concentrons la puissance de calcul de Foldingathome sur le SARS-CoV-2, le virus à l’origine de la pandémie COVID-19, et les protéines humaines avec lesquelles le virus interagit."
 
 msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
-msgstr ""
+msgstr "Nous avons d'abord mis au jour de nouvelles structures protéiques qui restaient encore inaccessibles à la communauté scientifique."
 
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
-msgstr ""
+msgstr "Avec votre aide, nous examinons maintenant des médicaments potentiellement capables de tirer parti de ces structures dans le cadre de la collaboration COVID Moonshot."
 
 msgid "See real-time progress toward new drugs"
-msgstr ""
+msgstr "Suivez en temps réel les progrès du développement de nouveaux médicaments."
 
 msgid "Foldingathome Ambassadors"
-msgstr ""
+msgstr "Ambassadeurs Foldingathome"
 
 msgid "Satya Nadella"
-msgstr ""
+msgstr "Satya Nadella"
 
 msgid "CEO, Microsoft"
-msgstr ""
+msgstr "PDG, Microsoft"
 
 msgid "Dr. Lisa Su"
-msgstr ""
+msgstr "Lisa Su"
 
 msgid "President & CEO, AMD"
-msgstr ""
+msgstr "Présidente et PDG, AMD"
 
 
 msgid "Jensen Huang"
-msgstr ""
+msgstr "Jensen Huang"
 
 msgid "CEO, Nvidia"
-msgstr ""
+msgstr "PDG, Nvidia"
 
 msgid "Dr. Gregory Bowman"
-msgstr ""
+msgstr "Dr Gregory Bowman"
 
 msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
-msgstr ""
+msgstr "Directeur de Foldingathome et professeur associé à l'École de médecine de l'Université Washington de Saint-Louis"
 
 msgid "Charles H. Giancarlo"
-msgstr ""
+msgstr "Charles H. Giancarlo"
 
 msgid "CEO, Pure Storage"
-msgstr ""
+msgstr "PDG, Pure Storage"
 
 msgid "Ilma Caprnja"
-msgstr ""
+msgstr "Ilma Caprnja"
 
 msgid "Medical student, Lund University"
-msgstr ""
+msgstr "Étudiante en médecine, Université de Lund"
 
 msgid "Minerva Santana"
-msgstr ""
+msgstr "Minerva Santana"
 
 msgid "Director of Innovation and Technological Transformation at LaLiga"
-msgstr ""
+msgstr "Directrice de l'innovation et de la transformation technologique, LaLiga"
 
 msgid "Michael Ward"
-msgstr ""
+msgstr "Michael Ward"
 
 msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
-msgstr ""
+msgstr "Doctorant, Laboratoire Bowman, École de médecine de l'Université Washington de Saint-Louis"
 
 msgid "Patrick P. Gelsinger"
-msgstr ""
+msgstr "Patrick P. Gelsinger"
 
 msgid "CEO, VMware"
-msgstr ""
+msgstr "PDG, VMWare"
 
 msgid "Pedro Valadas"
-msgstr ""
+msgstr "Pedro Valadas"
 
 msgid "Founder, PCMR / Communication Advisor, Foldingathome"
-msgstr ""
+msgstr "Fondateur, PCMR / conseiller en communication, Foldingathome"
 
 msgid "Vijay Pande"
-msgstr ""
+msgstr "Vijay Pande"
 
 msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
-msgstr ""
+msgstr "Commandité, Andreessen Horowitz / Fondateur, Foldingathome"
 
 msgid "Anton Thynell"
-msgstr ""
+msgstr "Anton Thynell"
 
 msgid "Head of Collaboration and Communication, Foldingathome"
-msgstr ""
+msgstr "Responsable de la collaboration et de la communication, Foldingathome"
 
 msgid "Kirill Konovalov"
 msgstr ""
