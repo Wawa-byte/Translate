@@ -168,7 +168,7 @@ msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
 msgstr "[En savoir plus sur Folding@home](https://foldingathome.org/home)"
 
 msgid "Choose your platform"
-msgstr "Sélectionnez votre plaforme"
+msgstr "Sélectionnez votre plateforme"
 
 msgid "Alternative Downloads"
 msgstr "Autres versions"
