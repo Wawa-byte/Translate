@@ -32,19 +32,19 @@ msgid "[Available for Windows, Mac, Linux]"
 msgstr "[Disponible pour Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
-msgstr ""
+msgstr "Progrès de l’effort actuel visant à évaluer une série de médicaments potentiels, entamé le dimanche 26 juillet 2020"
 
 msgid "Campaign Trailer"
-msgstr ""
+msgstr "Bande-annonce de la campagne"
 
 msgid "Play"
-msgstr ""
+msgstr "Visionner"
 
 msgid "Learn about our work on SARS-CoV-2 and COVID-19."
-msgstr ""
+msgstr "Découvrez nos travaux sur SARS-CoV-2 et COVID-19."
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
-msgstr ""
+msgstr "Nous concentrons la puissance de calcul de Foldingathome sur le SARS-CoV-2, le virus à l’origine de la pandémie COVID-19, et les protéines humaines avec lesquelles le virus interagit."
 
 msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
 msgstr ""
