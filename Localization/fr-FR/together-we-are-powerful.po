@@ -132,46 +132,46 @@ msgid "Head of Collaboration and Communication, Foldingathome"
 msgstr "Responsable de la collaboration et de la communication, Foldingathome"
 
 msgid "Kirill Konovalov"
-msgstr ""
+msgstr "Kirill Konovalov"
 
 msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
-msgstr ""
+msgstr "Doctorant au laboratoire Xuhui de l'Université des sciences et technologies de Hong Kong"
 
 msgid "Emma Matthies"
-msgstr ""
+msgstr "Emma Matthies"
 
 msgid "Info Security Engineer"
-msgstr ""
+msgstr "Ingénieure en sécurité informatique"
 
 msgid "Compilation Video"
-msgstr ""
+msgstr "Compilation vidéo"
 
 msgid "Courtesy – Washington University in Saint Louis"
-msgstr ""
+msgstr "Avec l'aimable autorisation de l'Université Washington de Saint Louis"
 
 msgid "SHARE YOUR STORY"
-msgstr ""
+msgstr "PARTAGEZ VOTRE HISTOIRE"
 
 msgid "Help us spread the word about Foldingathome and why you have joined. Create your video and share it on social media."
-msgstr ""
+msgstr "Aidez-nous à faire connaître Foldingathome en expliquant pourquoi vous nous avez rejoints. Créez votre vidéo et partagez-la sur les médias sociaux."
 
 msgid "Step 1) Record yourself to make a video like those above."
-msgstr ""
+msgstr "1) Enregistrez une vidéo comme celles qui précèdent."
 
 msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
-msgstr ""
+msgstr "2) Partagez-la sur les médias sociaux avec le hashtag #foldingathome et suivez @foldingathome sur Facebook et Twitter."
 
 msgid "Thank you!"
-msgstr ""
+msgstr "Merci!"
 
 msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
-msgstr ""
+msgstr "[En savoir plus sur Folding@home](https://foldingathome.org/home)"
 
 msgid "Choose your platform"
-msgstr ""
+msgstr "Sélectionnez votre plaforme"
 
 msgid "Alternative Downloads"
-msgstr ""
+msgstr "Autres versions"
 
 msgid "Contributors"
-msgstr ""
+msgstr "Contributeurs"
