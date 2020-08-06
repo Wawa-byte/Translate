@@ -23,7 +23,7 @@ msgid "Together, we have created the most powerful supercomputer on the planet, 
 msgstr "Ensemble, nous avons créé le superordinateur le plus puissant de la planète. Nous l'utilisons pour comprendre le SARS-CoV-2/COVID-19 et développer de nouveaux traitements. Nous avons besoin de vous pour mettre au point un médicament efficace et libre de droits."
 
 msgid "Use your PC to help fight COVID-19."
-msgstr "Lancez votre PC dans la lutte contre COVID-19."
+msgstr "Lancez votre PC dans la lutte contre la COVID-19."
 
 msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
 msgstr "[TÉLÉCHARGER FOLDINGATHOME](#downloads)"
