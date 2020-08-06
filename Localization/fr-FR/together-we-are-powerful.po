@@ -8,7 +8,7 @@ msgstr ""
 "Source-Last-Modified: 20200803\n"
 "Target-Language: fr-FR\n"
 "Target-Version: 1.0\n"
-"Target-Last-Modified: \n"
+"Target-Last-Modified: 20200806\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr "Ensemble, nous sommes formidables - Folding@home"
@@ -41,7 +41,7 @@ msgid "Play"
 msgstr "Visionner"
 
 msgid "Learn about our work on SARS-CoV-2 and COVID-19."
-msgstr "Découvrez nos travaux sur SARS-CoV-2 et COVID-19."
+msgstr "Découvrir nos travaux sur SARS-CoV-2 et COVID-19."
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
 msgstr "Nous concentrons la puissance de calcul de Foldingathome sur le SARS-CoV-2, le virus à l’origine de la pandémie COVID-19, et les protéines humaines avec lesquelles le virus interagit."
@@ -53,7 +53,7 @@ msgid "With your help, we are now screening for potential drugs to target these 
 msgstr "Avec votre aide, nous examinons maintenant des médicaments potentiellement capables de tirer parti de ces structures dans le cadre de la collaboration COVID Moonshot."
 
 msgid "See real-time progress toward new drugs"
-msgstr "Suivez en temps réel les progrès du développement de nouveaux médicaments."
+msgstr "Suivre en temps réel les progrès du développement de nouveaux médicaments."
 
 msgid "Foldingathome Ambassadors"
 msgstr "Ambassadeurs Foldingathome"
@@ -69,7 +69,6 @@ msgstr "Lisa Su"
 
 msgid "President & CEO, AMD"
 msgstr "Présidente et PDG, AMD"
-
 
 msgid "Jensen Huang"
 msgstr "Jensen Huang"
@@ -117,7 +116,7 @@ msgid "Pedro Valadas"
 msgstr "Pedro Valadas"
 
 msgid "Founder, PCMR / Communication Advisor, Foldingathome"
-msgstr "Fondateur, PCMR / conseiller en communication, Foldingathome"
+msgstr "Fondateur, PCMR / Conseiller en communication, Foldingathome"
 
 msgid "Vijay Pande"
 msgstr "Vijay Pande"
