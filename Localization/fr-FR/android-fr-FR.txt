@@ -56,7 +56,7 @@ Click to enable or disable computation
 Cliquer pour activer ou désactiver le calcul
 
 Minimum percent battery level to start job
-Niveau minimal de charge pour entamer un travail
+Charge minimale pour entamer un travail
 
 Mobile Folding
 Folding mobile
