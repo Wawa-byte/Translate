@@ -5,7 +5,7 @@ Username
 Identifiant
 
 Congrats! You contributed during the past day.
-Félicitations pour votre contributon d'hier ! 
+Félicitations pour votre contributon des dernières 24 heures ! 
 
 Log Out
 Déconnexion
@@ -47,7 +47,7 @@ Learn more about F@H
 En savoir plus sur F@A
 
 Control Board
-Organe de contrôle
+Panneau de contrôle
 
 Folding
 Folding
