@@ -1,49 +1,74 @@
 What username would you like to contribute with?
+Quel identifiant souhaitez-vous utiliser ?
 
 Username
+Identifiant
 
 Congrats! You contributed during the past day.
+Félicitations pour votre contributon d'hier ! 
 
 Log Out
+Déconnexion
 
 Dashboard
+Tableau de bord
 
 Statistics
+Statistiques
 
 Settings
+Paramètres
 
 Research Projects You've Contributed To
+Projets de recherche auxquels vous avez contribué
 
 Research ID (Number)
+ID (numéro) de recherche
 
+Cause
 Cause
 
 User/Team
+Utilisateur/Équipe
 
 Share
+Partager
 
 Percentile
+Centile
 
 Info 
+Info
 
 About Us
+À propos de nous
 
 Learn more about F@H
+En savoir plus sur F@A
 
 Control Board
+Organe de contrôle
 
+Folding
 Folding
 
 Click to enable or disable computation
+Cliquer pour activer ou désactiver le calcul
 
 Minimum percent battery level to start job
+Niveau minimal de charge pour entamer un travail
 
 Mobile Folding
+Folding mobile
 
 Schedule Folding
+Horaire de contribution
 
 Set a daily schedule for folding
+Fixer un horaire journalier
 
 Start time
+Heure de début
 
 End time
+Heure de fin
