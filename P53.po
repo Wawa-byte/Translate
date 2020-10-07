@@ -20,6 +20,6 @@ msgid "Without p53, damaged DNA can lead to the unusual growths found in cancer 
 msgstr "Sans le p53, l’ADN endommagé peut causer les croissances inhabituelles observées dans les tumeurs cancéreuses. Si le p53 se détériore et ne se replie pas correctement, l’ADN défectueux n’est pas stoppé et les mutations peuvent proliférer. Nous étudions des aspects spécifiques du p53 en vue de prévoir les mutations en relation avec le cancer et d’examiner des mutants connus liés au cancer."
 
 msgid "By Nephron (Own work) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAnaplastic_astrocytoma_-_p53_-_very_high_mag.jpg)"
-msgstr "Par Nephron (propre travail) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) ou [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAnaplastic_astrocytoma_-_p53_-_very_high_mag.jpg)"
+msgstr "Par Nephron (travail personnel) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) ou [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAnaplastic_astrocytoma_-_p53_-_very_high_mag.jpg)"
 
 
